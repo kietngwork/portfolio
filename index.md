@@ -12,7 +12,7 @@ My complete implementation of projects in [***Bloomberg Financial News Sentiment
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
-<center><img src="images/finbert.png"/></center>
+<center><img src="images/finbert.jpeg"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
