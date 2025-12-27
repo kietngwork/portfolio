@@ -1,7 +1,5 @@
 # Portfolio
 ---
-## Natural Language Processing
-
 ### Bloomberg Financial News: Sentiment Analysis using AI
 
 My complete implementation of assignments and projects in [***Bloomberg Financial News Sentiment Analysis***](https://github.com/kietngwork/financial-news-sentiment-analysis/blob/main/financial-news-sentiment-analysis.pdf).
