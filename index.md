@@ -2,7 +2,7 @@
 ---
 ## Natural Language Processing
 
-### Bloomberg Financial News Sentiment Analysis
+### Bloomberg Financial News: Sentiment Analysis using AI
 
 My complete implementation of assignments and projects in [***Bloomberg Financial News Sentiment Analysis***](https://github.com/kietngwork/financial-news-sentiment-analysis/blob/main/financial-news-sentiment-analysis.pdf).
 
@@ -17,24 +17,16 @@ The study compares:
 <center><img src="images/finbert.jpeg"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Proactive Data Breach Risk Management in Healthcare 
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+My complete implementation of assignments and projects in [***Proactive Data Breach Risk Management in Healthcare***](https://github.com/kietngwork/healthcare-data-breach-risk-nlp/blob/main/healthcare_data_breach_risk_management_NLP_report.pdf).
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/healthcare-data-breach-risk-nlp)
+
+<div style="text-align: justify">This project applies text mining and NLP techniques to healthcare breach reports to uncover patterns, classify breach severity, and support proactive risk management strategies. We began by cleaning and preprocessing unstructured textual data from 5,370 healthcare breach reports through tokenization and lemmatization. We then utilized Logistic Regression to predict the severity of incidents based on the number of individuals affected. Finally, we applied NER, LDA, and BERTopic modeling to identify frequent entities like Protected Health Information (PHI) and uncover dominant themes such as ransomware attacks and email vulnerabilities.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
 
----
-### Proactive Data Breach Risk Management in Healthcare
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
-
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
-<br>
-<center><img src="images/fb-food-trends.png"></center>
-<br>
 
 ---
 ### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
@@ -44,7 +36,7 @@ The study compares:
 
 <div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
 <br>
-<center><img src="images/detect-spam-nlp.png"/></center>
+<center><img src="images/healthcare.jpg"/></center>
 <br>
 
 ---
