@@ -12,7 +12,7 @@ My complete implementation of assignments and projects in [***Bloomberg Financia
 
 The study compares:
 - A **general sentiment approach** applied across industries  
-- **Industry-specific sentiment analysis** to test whether customization improves results  
+- **Industry-specific sentiment analysis** to test whether customization improves results
 
 <center><img src="images/finbert.jpeg"/></center>
 
@@ -23,10 +23,11 @@ My complete implementation of assignments and projects in [***Proactive Data Bre
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/healthcare-data-breach-risk-nlp)
 
-<div style="text-align: justify">This project applies text mining and NLP techniques to healthcare breach reports to uncover patterns, classify breach severity, and support proactive risk management strategies. We began by cleaning and preprocessing unstructured textual data from 5,370 healthcare breach reports through tokenization and lemmatization. We then utilized Logistic Regression to predict the severity of incidents based on the number of individuals affected. Finally, we applied NER, LDA, and BERTopic modeling to identify frequent entities like Protected Health Information (PHI) and uncover dominant themes such as ransomware attacks and email vulnerabilities.</div>
+<div style="text-align: justify">This project applies text mining and NLP techniques to healthcare breach reports to uncover patterns, classify breach severity, and support proactive risk management strategies. 
+  
+We began by cleaning and preprocessing unstructured textual data from 5,370 healthcare breach reports through tokenization and lemmatization. We then utilized Logistic Regression to predict the severity of incidents based on the number of individuals affected. Finally, we applied NER, LDA, and BERTopic modeling to identify frequent entities like Protected Health Information (PHI) and uncover dominant themes such as ransomware attacks and email vulnerabilities.</div>
 
-<center><img src="images/healthcare.jpg"/></center>
-
+<center><img src="images/healthcare.png"/></center>
 
 ---
 ### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
