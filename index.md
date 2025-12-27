@@ -40,4 +40,4 @@ My complete implementation of assignments and projects in [***Hit Songs Analysis
 
 The analysis begins by **framing the business problem** and translating it into data-driven questions aligned with project objectives. Relevant data is then **collected, cleaned, and prepared** to ensure **accuracy**, **consistency**, and **analytical readiness**. Using **Python**, **statistical techniques**, and **data visualization**, key patterns, trends, and relationships within the data are explored. The findings are interpreted and transformed into actionable insights that support informed decision-making.
 
-<center><img src="images/spotify.png"/></center>
+<center><img src="images/music.png"/></center>
