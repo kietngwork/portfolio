@@ -25,7 +25,7 @@ This project applies **text mining** and **natural language processing (NLP)** t
 
 The workflow begins with cleaning and preprocessing unstructured text data from **5,370** healthcare breach reports, using **tokenization** and **lemmatization** to prepare the corpus for analysis. A **Logistic Regression** model is then implemented to predict breach severity based on the number of individuals affected. 
 
-To deepen insight, advanced NLP methods including Named Entity Recognition **(NER)**, Latent Dirichlet Allocation **(LDA)**, and **BERTopic ** modeling are applied to extract frequent entities such as Protected Health Information (PHI) and identify dominant themes including ransomware attacks and email-based vulnerabilities.
+To deepen insight, advanced NLP methods including Named Entity Recognition **(NER)**, Latent Dirichlet Allocation **(LDA)**, and **BERTopic** modeling are applied to extract frequent entities such as Protected Health Information (PHI) and identify dominant themes including ransomware attacks and email-based vulnerabilities.
 
 <center><img src="images/nlp-health.png"/></center>
 
