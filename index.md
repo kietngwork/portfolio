@@ -2,21 +2,6 @@
 
 # Portfolio
 ---
-### Bloomberg Financial News: Sentiment Analysis using AI
-
-My complete implementation of assignments and projects in [***Bloomberg Financial News Sentiment Analysis***](https://github.com/kietngwork/financial-news-sentiment-analysis/blob/main/financial-news-sentiment-analysis.pdf).
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/financial-news-sentiment-analysis)
-
-**FinBERT-LSTM Model:** A 'winning' model over Textblob and BERT when it is applied to predict the movement of stock prices based on price tendancy of the whole market (including Finance, Healthcare, Technology, Energy, Real Estate and Entertainment) ([GitHub](https://github.com/kietngwork/financial-news-sentiment-analysis)).
-
-The study compares:
-- A **general sentiment approach** applied across industries  
-- **Industry-specific sentiment analysis** to test whether customization improves results
-
-<center><img src="images/finbert.jpeg"/></center>
-
----
 ### Digital Media Store Sales Analytics
 
 My complete implementation of assignments and projects in [***Digital Media Store Sales Analytics***](https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file).
@@ -40,6 +25,21 @@ My complete implementation of assignments and projects in [***Hit Songs Analysis
 Using **Python**, the analysis begins by using libraries as **Numpy** and **Pandas** to collect, clean, and prepare data to ensure accuracy, consistency, and analytical readiness. Visualization libraries as **Seaborn** and **Matplotlib** then were used to identify key patterns, trends, and relationships within the data. The findings are ultimately interpreted and transformed into actionable insights that support informed musician decision-making.
 
 <center><img src="images/music.png"/></center>
+
+---
+### Bloomberg Financial News: Sentiment Analysis using AI
+
+My complete implementation of assignments and projects in [***Bloomberg Financial News Sentiment Analysis***](https://github.com/kietngwork/financial-news-sentiment-analysis/blob/main/financial-news-sentiment-analysis.pdf).
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/financial-news-sentiment-analysis)
+
+**FinBERT-LSTM Model:** A 'winning' model over Textblob and BERT when it is applied to predict the movement of stock prices based on price tendancy of the whole market (including Finance, Healthcare, Technology, Energy, Real Estate and Entertainment) ([GitHub](https://github.com/kietngwork/financial-news-sentiment-analysis)).
+
+The study compares:
+- A **general sentiment approach** applied across industries  
+- **Industry-specific sentiment analysis** to test whether customization improves results
+
+<center><img src="images/finbert.jpeg"/></center>
 
 ---
 ### Proactive Data Breach Risk Management in Healthcare 
