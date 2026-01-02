@@ -27,6 +27,8 @@ My complete implementation of assignments and projects in [***Digital Media Stor
 
 I integrated multiple Chinook datasets to design a robust ERD, then developed an interactive Power BI dashboard that reveals actionable insights into sales performance, market dynamics, and customer behavior.
 
+<center><img src="images/port-highlight.png"/></center>
+
 ---
 ### Hit Songs Analysis using Spotify Audio Features
 
