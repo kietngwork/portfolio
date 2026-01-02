@@ -57,4 +57,4 @@ The workflow begins with cleaning and preprocessing unstructured text data from 
 
 To deepen insight, advanced NLP methods including Named Entity Recognition **(NER)**, Latent Dirichlet Allocation **(LDA)**, and **BERTopic** modeling are applied to extract frequent entities such as Protected Health Information (PHI) and identify dominant themes including ransomware attacks and email-based vulnerabilities.
 
-<center><img src="images/breach2.png"/></center>
+<center><img width="6000" height="2926" alt="image" src="https://github.com/user-attachments/assets/ef99582e-4931-4fc7-8f03-55f281bbe651" /></center>
