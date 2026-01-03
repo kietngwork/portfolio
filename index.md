@@ -1,7 +1,7 @@
 <center><img src="images/timeline2.png"/></center>
 
 # Portfolio
-
+---
 ### Digital Media Store Sales Analytics
 
 My complete implementation of assignments and projects in [***Digital Media Store Sales Analytics***](https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file).
@@ -75,6 +75,7 @@ To deepen insight, advanced NLP methods including Named Entity Recognition **(NE
 <center><img src="images/breach3.png"/></center>
 
 # Skill & Certifications
+---
 <img width="5760" height="1814" alt="image" src="https://github.com/user-attachments/assets/4e08b4f1-2457-4e9a-9712-dfbcd34da223" />
 
 
