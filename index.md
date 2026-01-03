@@ -76,7 +76,14 @@ To deepen insight, advanced NLP methods including Named Entity Recognition **(NE
 
 # Skill & Certifications
 ---
-<img width="5760" height="1814" alt="image" src="https://github.com/user-attachments/assets/4e08b4f1-2457-4e9a-9712-dfbcd34da223" />
+My work and training have focused on building practical analytical skills and industry-recognized certifications, outlined below.
+
+<img width="5760" height="1986" alt="image" src="https://github.com/user-attachments/assets/e079c5a9-b761-48b7-b6bb-d94529b55b05" />
+
+[Data Analyst - DataCamp (2024)](https://www.datacamp.com/certificate/DA0026428814346){:target="_blank"}
+[CoStar Commercial Real Estate Analytics - CoStar Group (2024)](https://github.com/kietngwork/portfolio/blob/master/certifications/CoStar.pdf){:target="_blank"}
+[Modeling with AIMMS I - AIMMS (2025)](https://github.com/kietngwork/portfolio/blob/master/certifications/AIMMS.pdf){:target="_blank"}
+[The Fundamentals of Digital Marketing - Google (2021)](https://github.com/kietngwork/portfolio/blob/master/certifications/Google.pdf){:target="_blank"}
 
 
 
