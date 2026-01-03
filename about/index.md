@@ -1,6 +1,1 @@
----
-layout: page
-title: About
----
-
-Content here
+<center><img src="images/timeline2.png"/></center>
