@@ -4,10 +4,12 @@ logo: "/images/profile.png?raw=true"
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/kietn1/">LinkedIn</a> |
-  <a href="https://github.com/kietngwork">GitHub</a> |
-  <a href="/about/">About</a>
+    <a href="/about/" class="nav-btn">About</a>
+    <a href="https://kietngwork.github.io/portfolio/" class="nav-btn" target="_blank">Portfolio</a>
+    <a href="/pdf/resume.pdf" class="nav-btn" target="_blank">Resume</a>
+    <a href="https://www.linkedin.com/in/kietn1/" class="nav-btn" target="_blank">LinkedIn</a>
+    <a href="https://github.com/kietngwork" class="nav-btn" target="_blank">GitHub</a>
+  </div>
 
   </p>
   
