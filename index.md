@@ -38,6 +38,12 @@ My complete implementation of assignments and projects in [***BigQuery-Based IMD
 [![View Jupyter Notebook](https://img.shields.io/badge/Jupyter-View_Notebook-orange?logo=Jupyter)](https://github.com/kietngwork/imdb-big-data-analytics-ml/blob/main/model_training.ipynb)
 [![View SQL Queries](https://img.shields.io/badge/SQL-View_Queries-lightgrey?logo=postgresql)](https://github.com/kietngwork/imdb-big-data-analytics-ml/tree/main/SQL%20queries)
 
+We leverage **Google BigQuery** and **Google Cloud Platform** to process and analyze large-scale IMDb datasets, applying **XGBoost** and machine learning techniques to transform raw movie, cast, crew, and audience data into actionable, investment-focused insights.
+
+We also built a simplified, Gemini-based model to illustrate how the prediction workflow operates:
+
+![imdb-model](https://github.com/user-attachments/assets/53de3169-5ff8-4772-bb38-e518f02a1b24)
+
 ---
 ### Bloomberg Financial News: Sentiment Analysis using AI
 
