@@ -6,7 +6,7 @@
 
 My complete implementation of assignments and projects in
 <a href="https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file" target="_blank">
-<strong>Digital Media Store Sales Analytics</strong>
+<strong><em>Digital Media Store Sales Analytics</em></strong>
 </a>.
 
 <a href="https://github.com/kietngwork/chinook-sales-dashboard?tab=readme-ov-file" target="_blank">
@@ -70,9 +70,14 @@ We also built a simplified, Gemini-based model to illustrate how the prediction 
 ---
 ### Bloomberg Financial News: Sentiment Analysis using AI
 
-My complete implementation of assignments and projects in [***Bloomberg Financial News Sentiment Analysis***](https://github.com/kietngwork/financial-news-sentiment-analysis/blob/main/financial-news-sentiment-analysis.pdf).
+My complete implementation of assignments and projects in
+<a href="https://github.com/kietngwork/financial-news-sentiment-analysis/blob/main/financial-news-sentiment-analysis.pdf" target="_blank">
+<strong><em>Bloomberg Financial News Sentiment Analysis</em></strong>
+</a>.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/financial-news-sentiment-analysis)
+<a href="https://github.com/kietngwork/financial-news-sentiment-analysis" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
 
 **FinBERT-LSTM Model:** A 'winning' model over Textblob and BERT when it is applied to predict the movement of stock prices based on price tendancy of the whole market (including Finance, Healthcare, Technology, Energy, Real Estate and Entertainment) ([GitHub](https://github.com/kietngwork/financial-news-sentiment-analysis)).
 
@@ -85,9 +90,14 @@ The study compares:
 ---
 ### Proactive Data Breach Risk Management in Healthcare 
 
-My complete implementation of assignments and projects in [***Proactive Data Breach Risk Management in Healthcare***](https://github.com/kietngwork/healthcare-data-breach-risk-nlp/blob/main/healthcare_data_breach_risk_management_NLP_report.pdf).
+My complete implementation of assignments and projects in
+<a href="https://github.com/kietngwork/healthcare-data-breach-risk-nlp/blob/main/healthcare_data_breach_risk_management_NLP_report.pdf" target="_blank">
+<strong><em>Proactive Data Breach Risk Management in Healthcare</em></strong>
+</a>.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kietngwork/healthcare-data-breach-risk-nlp)
+<a href="https://github.com/kietngwork/healthcare-data-breach-risk-nlp" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
+</a>
 
 This project applies **text mining** and **natural language processing (NLP)** techniques to healthcare data breach reports to uncover hidden patterns, classify breach severity, and support proactive risk management strategies.
 
