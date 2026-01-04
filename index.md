@@ -79,7 +79,7 @@ To deepen insight, advanced NLP methods including Named Entity Recognition **(NE
 ---
 My work and training have focused on building practical analytical skills and industry-recognized certifications, outlined below.
 
-<center><img src="images/cert.png"/></center>
+<center><img src="images/certification.png"/></center>
 
 - <a href="https://www.datacamp.com/certificate/DA0026428814346" target="_blank" rel="noopener noreferrer">
   Data Analyst – DataCamp (2024)
