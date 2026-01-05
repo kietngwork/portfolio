@@ -134,6 +134,11 @@ My work and training have focused on building practical analytical skills and in
   The Fundamentals of Digital Marketing – Google (2021)
 </a>
 
+Microsoft Applied Skill Badges:
+- <a href="https://learn.microsoft.com/en-us/users/kietnguyen-6256/achievements/fqbdza9x" target="_blank" rel="noopener noreferrer">
+  Clean, transform, and load data in Power BI
+</a>
+
 ---
 # Contact
 - **Email:** <a href="mailto:kietng.work@gmail.com" target="_blank" rel="noopener noreferrer">kietng.work@gmail.com</a>
