@@ -114,6 +114,14 @@ My work and training have focused on building practical analytical skills and in
 
 <center><img src="images/certification.png"/></center>
 
+- <a href="https://www.credly.com/badges/0a587708-097a-442d-bc96-761d3370d321" target="_blank" rel="noopener noreferrer">
+  Cloud Computing Fundamentals – IBM (2026)
+</a>
+
+- <a href="https://github.com/kietngwork/portfolio/blob/master/certifications/AIMMS.pdf" target="_blank" rel="noopener noreferrer">
+  Modeling with AIMMS I – AIMMS (2025)
+</a>
+
 - <a href="https://www.datacamp.com/certificate/DA0026428814346" target="_blank" rel="noopener noreferrer">
   Data Analyst – DataCamp (2024)
 </a>
@@ -122,16 +130,8 @@ My work and training have focused on building practical analytical skills and in
   CoStar Commercial Real Estate Analytics – CoStar Group (2024)
 </a>
 
-- <a href="https://github.com/kietngwork/portfolio/blob/master/certifications/AIMMS.pdf" target="_blank" rel="noopener noreferrer">
-  Modeling with AIMMS I – AIMMS (2025)
-</a>
-
 - <a href="https://github.com/kietngwork/portfolio/blob/master/certifications/Google.pdf" target="_blank" rel="noopener noreferrer">
   The Fundamentals of Digital Marketing – Google (2021)
-</a>
-
-- <a href="https://www.credly.com/badges/0a587708-097a-442d-bc96-761d3370d321" target="_blank" rel="noopener noreferrer">
-  Cloud Computing Fundamentals – IBM (2026)
 </a>
 
 ---
