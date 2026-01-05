@@ -155,6 +155,7 @@ My work and training have focused on building practical analytical skills and in
 - <a href="https://learn.microsoft.com/api/achievements/share/en-us/KietNguyen-6256/9RVMW44U?sharingId=512DDE696505B53F" target="_blank" rel="noopener noreferrer">
   Discover data analysis
 </a>
+
 ---
 # Contact
 - **Email:** <a href="mailto:kietng.work@gmail.com" target="_blank" rel="noopener noreferrer">kietng.work@gmail.com</a>
