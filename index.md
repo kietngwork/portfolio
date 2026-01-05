@@ -136,7 +136,7 @@ My work and training have focused on building practical analytical skills and in
 - **LinkedIn:** <a href="https://www.linkedin.com/in/kietn1/" target="_blank" rel="noopener noreferrer">linkedin.com/in/kietn1</a>
 - **GitHub:** <a href="https://github.com/kietngwork" target="_blank" rel="noopener noreferrer">github.com/kietngwork</a>
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a587708-097a-442d-bc96-761d3370d321" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
