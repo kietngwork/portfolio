@@ -119,6 +119,10 @@ My work and training have focused on building practical analytical skills and in
   Cloud Computing Fundamentals – IBM (2026)
 </a>
 
+- <a href="https://mylearn.oracle.com/api/badges/metadata/ou/learning-path/become-an-oracle-data-platform-foundations-associate-2025/148510" target="_blank" rel="noopener noreferrer">
+  Data Platform Foundations Associate – Oracle (2026)
+</a>
+
 - <a href="certifications/AIMMS.pdf" target="_blank">Modeling with AIMMS I – AIMMS (2025)</a>
 
 - <a href="https://www.datacamp.com/certificate/DA0026428814346" target="_blank" rel="noopener noreferrer">
