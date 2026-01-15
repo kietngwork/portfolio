@@ -156,7 +156,7 @@ My work and training have focused on building practical analytical skills and in
 # Contact
 - **Email:** <a href="mailto:kietn1@cpp.edu" target="_blank" rel="noopener noreferrer">kietn1@cpp.edu</a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/kietn1/" target="_blank" rel="noopener noreferrer">linkedin.com/in/kietn1</a>
-- **GitHub:** <a href="https://github.com/kietngwork" target="_blank" rel="noopener noreferrer">github.com/kietngwork</a>
+- **GitHub:** <a href="https://github.com/kietn1" target="_blank" rel="noopener noreferrer">github.com/kietn1</a>
 
 
 
