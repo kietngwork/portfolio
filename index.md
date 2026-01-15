@@ -1,5 +1,3 @@
-<center><img src="images/timeline2.png"/></center>
-
 # Portfolio
 ---
 ### Digital Media Store Sales Analytics
